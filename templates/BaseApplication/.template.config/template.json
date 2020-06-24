@@ -5,7 +5,7 @@
   "identity": "BaseApplication",
   "namespace": "BaseApplication",
   "name": "Templates.NET: Repository Patterns + SQLServer + WebApi + Swagger + BlazorClient + ConsoleApplication",
-  "shortName": "TemplatesDotNetBaseTemplate",
+  "shortName": "TemplatesDotNet/BaseTemplate",
   "sources": {
 	"modifiers": [
 		{

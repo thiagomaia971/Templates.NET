@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Thiago Maia da Costa",
+  "classifications": [ "Template", "Base", "Repository", "Swagger", "WebAPI", "BlazorClient", "ConsoleApplication", "SqlServer", "SignalR" ],
+  "identity": "BaseApplicationWithSignalR",
+  "namespace": "BaseApplicationWithSignalR",
+  "name": "Templates.NET: Repository Patterns + SQLServer + WebApi + Swagger + BlazorClient + ConsoleApplication + SignalR",
+  "shortName": "TemplatesDotNet/BaseTemplate/SignalR",
+  "sources": {
+	"modifiers": [
+		{
+			"exclude": [".idea/**"]
+		}
+	]
+  },
+  "tags": {
+    "language": "C#",
+    "type": "item"
+  },
+  "symbols": {
+	"appName":
+	{
+		"type": "parameter",
+		"datatype": "string",
+		"isRequired": true,
+		"replaces": "BaseApplication",
+		"fileRename": "BaseApplication"
+	}
+  }
+}
