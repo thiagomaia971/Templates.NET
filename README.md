@@ -17,4 +17,4 @@ Ir para o template que você quer criar na máquina.
 >  dotnet new -u \[localproject\]\Templates.NET\templates\BaseApplication
 
 ## 4. Create new project with this template
-> dotnet new TemplatesDotNetBaseTemplate --appName YourApplicationName -o YourApplicationNameFolderOptional
+> dotnet new TemplatesDotNet/BaseTemplate --appName YourApplicationName -o YourApplicationNameFolderOptional
